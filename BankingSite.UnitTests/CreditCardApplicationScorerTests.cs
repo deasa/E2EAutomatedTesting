@@ -13,7 +13,7 @@ namespace BankingSite.UnitTests
         [Test]
         public void ShouldDeclineUnderageApplicant()
         {
-
+            var sut = new creditchecker
         }
 
         [Test]
@@ -27,5 +27,6 @@ namespace BankingSite.UnitTests
         {
 
         }
+
     }
 }
